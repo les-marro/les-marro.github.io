@@ -1,2 +1,1 @@
-# my-website
-web developmaent homework
+My eportfolio, an HTML and CSS project for MMP100
